@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="production_mode" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Production Mode</name>
+	<description>Add a 'production-mode' parameter of 'production' or 'development', to the Parameter Pool</description>
+	<repo type="github">https://github.com/firegoby/production_mode</repo>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="firegoby" symphony="firegoby" twitter="firegobyDesign">Chris Batchelor</name>
+			<website>http://firegoby.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2012-11-22" min="2.3">
+      - Initial release
+		</release>
+	</releases>
+</extension>
