@@ -11,10 +11,17 @@
 			<name github="firegoby" symphony="firegoby" twitter="firegobyDesign">Chris Batchelor</name>
 			<website>http://firegoby.com</website>
 		</author>
+		<author>
+			<name github="TwoWholeWorms" symphony="TwoWholeWorms" twitter="bendotmu">Benjamin Nolan</name>
+			<website>http://ben.mu</website>
+		</author>
 	</authors>
 	<releases>
-    <release version="1.0" date="2012-11-22" min="2.3" max="2.3">
-* Initial release
+		<release version="1.0.1" date="2017-06-05" min="2.3.0" max="2.7.x">
+			* Symphony 2.7.x compatibility
+		</release>
+		<release version="1.0" date="2012-11-22" min="2.3" max="2.3">
+			* Initial release
 		</release>
 	</releases>
 </extension>
